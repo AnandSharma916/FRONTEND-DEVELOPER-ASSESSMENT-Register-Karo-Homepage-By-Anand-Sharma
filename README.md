@@ -6,7 +6,7 @@ Check out the live demo of the project here:
 
 ## Screenshot
 
-![Screenshot of the Project]()
+![Screenshot of the Project](https://github.com/AnandSharma916/FRONTEND-DEVELOPER-ASSESSMENT-Register-Karo-Homepage-By-Anand-Sharma/blob/e88fd81270dfa8ce8e7eb5e8fed01771b85ced33/Screenshot%202025-01-21%20210022.png1.png)
 ![Screenshot of the Project](https://github.com/AnandSharma916/FRONTEND-DEVELOPER-ASSESSMENT-Register-Karo-Homepage-By-Anand-Sharma/blob/main/Screenshot%202025-01-21%20210057.png2.png?raw=true)
 ![Screenshot of the Project]()
 ![Screenshot of the Project]()
